@@ -12,7 +12,7 @@ Este es un proyecto que permite procesar imágenes en un directorio seleccionado
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/procesador-imagenes.git`
+1. Clona este repositorio: `git clone https://github.com/celvintr/procesador-imagenes.git`
 2. Navega hasta el directorio del proyecto: `cd procesador-imagenes`
 3. Instala las dependencias: `pip install -r requirements.txt`
 4. Ejecuta la aplicación: `python main.py`
